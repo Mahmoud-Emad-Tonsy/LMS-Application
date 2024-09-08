@@ -18,8 +18,8 @@ export const getMultiPartAuthHeader = () => {
 }
 
 export const getS3Credintials = () => ({
-  accessKeyId: 'AKIAQUWWH4QIY4HPINOK',
-  secretAccessKey: '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'
+  accessKeyId: '',
+  secretAccessKey: ''
 })
 
 
